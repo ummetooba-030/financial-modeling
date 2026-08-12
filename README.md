@@ -17,9 +17,6 @@ A fully linked three-statement financial model built in Excel, covering five yea
 - Debugging a real balance sheet imbalance by tracing formula dependencies back to source
 - Schedule-building (PPE, retained earnings, working capital) as supporting detail rather than buried formulas
 
-## File
-
-📄 `3-Financial-Model.xlsx` — the full working model
 
 ## Status
 
