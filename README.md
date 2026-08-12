@@ -22,4 +22,3 @@ A fully linked three-statement financial model built in Excel, covering five yea
 
 ✅ Complete — fully balanced across all historical and forecast periods
 
-✅ Complete / 🔧 In progress *(pick whichever's true)*
